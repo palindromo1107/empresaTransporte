@@ -1,3 +1,5 @@
+//Esta clase esta servindo como um molde para as categorias de motorista
+
 public abstract class Motorista {
 
     protected String nome;
@@ -38,3 +40,4 @@ public abstract class Motorista {
 
     public abstract double calcularPagamento();
 }
+
