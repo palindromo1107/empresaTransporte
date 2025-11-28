@@ -1,4 +1,5 @@
-//Esta clase esta servindo como um molde para as categorias de motorista
+// Esta clase esta servindo como um molde para as categorias de motorista
+// Aprincipal ocorrencia de polimorfismo ocorre na classe empresaTransporte
 
 public abstract class Motorista {
 
@@ -40,4 +41,5 @@ public abstract class Motorista {
 
     public abstract double calcularPagamento();
 }
+
 
