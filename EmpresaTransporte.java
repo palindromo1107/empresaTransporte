@@ -1,3 +1,5 @@
+// A principal ocorrencia do polimorfismo é no metodo calcularPagamentoTotal
+
 public class EmpresaTransporte {
 
     private Motorista[] motoristas = new Motorista[10];
@@ -49,4 +51,5 @@ public class EmpresaTransporte {
             }
         }
     }
+
 }
